@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey, I'm Sanskar Bhalke
 
-<!--
-**sanskarb19/sanskarb19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space 🚀  
+I'm on a journey to become a better developer every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤔 About Me
+
+- 💻 What am I learning right now?  
+  ➜ C, HTML, Python (basic), and currently learning Java  
+
+- 🎓 Branch:  
+  ➜ Information Technology  
+
+- 🎯 Goal:  
+  ➜ Become a skilled software developer  
+
+---
+
+## ⚡ Hobbies / Fun Facts
+
+- 🌙 I love coding at night  
+- 🧠 I enjoy solving logic problems  
+- 🎵 I listen to music while coding  
+
+## 🛠 Tech Stack
+
+```text
+Languages: C, HTML, Python (basic), Java (learning)
+Tools: Git, GitHub, VS Code
+OS: Windows
+
