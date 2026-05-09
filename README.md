@@ -8,7 +8,7 @@ I'm on a journey to become a better developer every day.
 ## 🤔 About Me
 
 - 💻 What am I learning right now?  
-  ➜ JAVA, C, HTML, Python (basic) currently learnig DSA and Object-Oriented Programming.
+  ➜ JAVA, C, HTML, Python (basic), currently learnig DSA in JAVA and Object-Oriented Programming.
 
 - 🎓 Branch:  
   ➜ Information Technology  
