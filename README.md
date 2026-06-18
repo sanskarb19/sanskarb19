@@ -41,5 +41,5 @@ Welcome to my GitHub space! I'm on a continuous journey to learn, build, and bec
 
 ## 📈 GitHub Stats
 
-![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskarb19&show_icons=true&theme=radium)
+![Sanskar's GitHub Streak](https://streak-stats.demolab.com/?user=sanskarb19&theme=radium)
 
