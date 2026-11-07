@@ -5,7 +5,7 @@ Welcome to my GitHub space! I'm on a continuous journey to learn, build, and bec
 
 ## 🤔 About Me
 
-- 🎓 **Education:** First-Year student in Information Technology Engineering @SIES_GST.
+- 🎓 **Education:** Second-Year student in Information Technology Engineering @SIES_GST.
 - 💻 **Currently Learning:** Deep diving into **Data Structures & Algorithms (DSA) in Java**, **Object-Oriented Programming (OOP)**, and **Relational Databases (MySQL)**.
 - 🎯 **Goal:** To become a highly skilled and impactful software developer.
 - 🌙 **Fun Facts:** I love coding late at night, enjoy cracking logic problems, and my coding sessions aren't complete without some good music playing in the background. 🎵🧠
